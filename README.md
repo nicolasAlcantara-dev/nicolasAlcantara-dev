@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**nicolasAlcantara-dev/nicolasAlcantara-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nicolasalcantara/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:nicolasalcantaradev@gmail.com)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class AboutMe {
+    private String currentRole = "Java Developer";
+    private String[] interests = {"Backend Development", "Microservices", "Cloud Computing"};
+    private String learning = "Spring Boot 3, Docker";
+    private String funFact = "I love sports";
+    
+    public static void main(String[] args) {
+        System.out.println("Passionate developer building amazing software!");
+    }
+}
